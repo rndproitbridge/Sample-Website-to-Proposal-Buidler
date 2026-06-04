@@ -1,0 +1,6 @@
+{
+  "name": "IT Services Landing Page",
+  "description": "A modern, responsive landing page for an IT services company offering AI Agent, Automation, Software Development, and Digital Marketing services with an inline contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
